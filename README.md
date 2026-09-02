@@ -37,15 +37,6 @@ Users can choose from a short list of preset cities or type their own. The app t
 - Sunrise-Sunset API
 - `timezonemapper` for timezone lookup
 
-## Why This Project Works Well In A Portfolio
-
-This project shows practical Go development beyond a basic CLI. It demonstrates:
-
-- API integration with external services
-- clean separation of logic across packages
-- asynchronous-style command handling with Bubble Tea
-- user-focused terminal interface design
-- data transformation from geocoding to timezone-aware output
 
 ## Running Locally
 
